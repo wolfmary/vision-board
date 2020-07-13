@@ -1,0 +1,104 @@
+body {
+      background-color: #E8E8E8;
+      font-family: 'Montserrat', sans-serif;
+      font-size: 20px;
+      font-weight: bold;
+      color: #3B3B3B;
+      text-transform: uppercase;
+}
+
+#vision-board {
+      width: 1200px;
+      height: 850px;
+      margin: 50px auto;
+      background-color: #FFFFFF;
+      background-image: url("../img/background.png");
+      background-size: cover;
+      overflow: auto;
+}
+
+.block {
+      width: 400px;
+      float: left;
+      padding: 0 40px;
+      box-sizing: border-box;
+}
+
+.top {
+      height: 210px;
+      padding-top: 20px;
+}
+
+.mid {
+      height: 430px;
+      padding-top: 70px;
+}
+
+.bottom {
+      height: 210px;
+      padding-top: 20px;
+}
+
+.highlight {
+      background-color: #FFF44F;
+      padding: 5px 15px;
+      font-size: 18px;
+}
+
+strong {
+      font-size: 38px;
+      text-transform: none;
+      line-height: 38px;
+}
+
+.corner {
+      background-color: #FFFFFF;
+}
+
+#middle {
+      background-color: #3B3B3B;
+      text-align: center;
+}
+
+#middle .marker {
+      font-family: 'Permanent Marker', cursive;
+      font-size: 30px;
+      font-weight: normal;
+      color: #FFFFFF;
+      text-transform: none;
+      margin: 0;
+}
+
+#middle p {
+      font-family: 'Montserrat', sans-serif;
+      font-size: 30px;
+      color: #FFFFFF;
+      text-transform: uppercase;
+      margin: 0;
+}
+
+#tm {
+      text-align: center;
+}
+
+#tr {
+      text-align: center;
+}
+
+#mr {
+      text-align: right;
+}
+
+#bl {
+      text-align: center;
+      padding-top: 35px;
+}
+
+#bm {
+      text-align: center;
+      padding-top: 35px;
+}
+
+#br {
+      text-align: right;
+}
